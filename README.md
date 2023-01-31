@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sm69mu
-- 👀 I’m interested in web development and Application development 
-- 🌱 I’m currently learning React Js, Flutter 
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Soumyajit Mukherjee 
+- 👀 I’m interested in Block Chain development and Android Application development 
+- 🌱 I’m currently learning React JS, Flutter 
+- 💞️ I’m looking to collaborate on my flutter applications
 - 📫 How to reach me through mail soumyajitmukherjee271@gmail.com
 
 <!---
