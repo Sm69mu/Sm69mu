@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Mukherjee</h1>
-<h3 align="center">A passionate Fullstack & Android developer from India</h3>
+<h3 align="center">A passionate Flutter Developer from India</h3>
 
 - 🔭 I’m currently working on **Flutter**
 
