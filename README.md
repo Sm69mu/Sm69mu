@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1cj-XknEjJfxJEA9GEPqCaXSqH9eKjnlzz50tRTMo-4k/edit?usp=drive_link](https://docs.google.com/document/d/1cj-XknEjJfxJEA9GEPqCaXSqH9eKjnlzz50tRTMo-4k/edit?usp=drive_link)
 
-- ⚡ Fun fact **Lazy Dev**
+- ⚡ Fun fact **I am a Lazy Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
