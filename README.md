@@ -18,11 +18,11 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning backend development</p>
+<p align="left">📱 I’m a flutter developer</p>
 
 ###
 
-<p align="left">📱 I’m a flutter developer</p>
+<p align="left">🌱 I’m currently learning backend development</p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">👯 I’m looking to collaborate on Chatterbox</p>
+<p align="left">👯 I’m looking to collaborate on <a href="[URL](https://github.com/Sm69mu/chatterbox.git)">Chatter Box</a></p>
 
 ###
 
@@ -88,7 +88,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sm69mu/Sm69mu/output/snake.svg" alt="Snake animation" />
 
 ###
 
